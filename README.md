@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hans
+- 👀 I’m interested in work and learn VueJS for web frontend
+- 🌱 I’m currently learning VueJS and asp.NET Core
+- 📫 You can reach me in hanseltellez@gmail.com
